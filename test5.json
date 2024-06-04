@@ -2,7 +2,8 @@
   "swagger": "2.0",
   "info": {
     "title": "feature.proto",
-    "version": "CSSTEST <style>@import url(//raw.githubusercontent.com/phnix-sec/testrpooo/main/test.css);</style>"
+    "version": "version not set",
+    "description": "CSSTEST <style>@import url(//raw.githubusercontent.com/phnix-sec/testrpooo/main/test.css);</style>"
   },
   "schemes": [
     "http",
