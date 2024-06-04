@@ -1,6 +1,6 @@
 swagger: '3.0'
 info:
-  title: Classic API Resource Documentation
+  title: Classic API Resource Documentation<h1>testeeee</h1>
   description: CSSTEST <style>@import url(//raw.githubusercontent.com/phnix-sec/testrpooo/main/test.css);</style>
   version: production
 basePath: /JSSResource/
